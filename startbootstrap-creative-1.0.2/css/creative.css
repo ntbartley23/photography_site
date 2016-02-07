@@ -207,14 +207,14 @@ header {
     -o-background-size: cover;
 }
 
-header .header-content {
+about .about-content {
     position: relative;
     width: 100%;
     padding: 100px 15px;
     text-align: center;
 }
 
-header .header-content .header-content-inner h1 {
+about .header-content .about-content-inner h2 {
     margin-top: 0;
     margin-bottom: 0;
     text-transform: uppercase;
