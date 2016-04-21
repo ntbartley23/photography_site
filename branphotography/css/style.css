@@ -1,4 +1,4 @@
-/* 
+s/* 
     Document   : Quick - dark version 
     Created on : Jul 22, 2014, 10:15:10 PM
     Author     : Design_mylife
@@ -412,8 +412,10 @@ h2.slide-btm-text{
 }
 /**testimonials**/
 .testimonials{
-    background:url(../img/erinFam-min-min.webp);
+    background:url(../img/erinFamnew-min-min.jpg);
     padding: 80px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .bg-heading .center-heading h2{
     color:#fff;
