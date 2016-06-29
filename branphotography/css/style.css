@@ -144,7 +144,7 @@ label{
     width: 100%;
     min-width: 20%;
     height: 100%;
-    background-image: url(../img/winternew-min.jpg);
+    background-image: url(../img/winter.jpg);
     background-repeat: no-repeat;
     background-color: rgba(44,62,80,0.6);
     background-size: contain;
@@ -417,7 +417,7 @@ h2.slide-btm-text{
 }
 /**testimonials**/
 .testimonials{
-    background:url(../img/erinFamnew-min-min.jpg);
+    background:url(../img/codyfam.jpg);
     padding: 80px 0;
     background-size: cover;
     background-repeat: no-repeat;
@@ -488,7 +488,7 @@ h2.slide-btm-text{
 }
 /***our services****/
 #services{
-    background: url('../img/guitar1-min-min.jpg');
+    background: url('../img/guitar.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 
