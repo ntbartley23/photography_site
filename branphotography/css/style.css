@@ -144,10 +144,10 @@ label{
     width: 100%;
     min-width: 20%;
     height: 100%;
-    background-image: url(../img/winter.jpg);
+    background-image: url(../img/pook2.jpg);
     background-repeat: no-repeat;
     background-color: rgba(44,62,80,0.6);
-    background-size: contain;
+    background-size: cover;
     z-index: 2;
 }
 .home-content {
