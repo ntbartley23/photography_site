@@ -147,13 +147,14 @@ label{
     background-image: url(../img/pook2.jpg);
     background-repeat: no-repeat;
     background-color: rgba(44,62,80,0.6);
-    background-size: cover;
+    background-size: 1400px;
+    
     z-index: 2;
 }
 .home-content {
     position: relative;
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: text-top;
     z-index: 3;
 }
 .colored-text{
